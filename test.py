@@ -6,4 +6,3 @@ def hello():
     return "hello i am, vikas"
 
 hello()
-
